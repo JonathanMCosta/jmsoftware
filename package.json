@@ -1,0 +1,21 @@
+{
+  "name": "site_g10_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Jonathan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "connect-multiparty": "^2.2.0",
+    "consign": "^0.1.6",
+    "ejs": "^2.6.2",
+    "express": "^4.14.0",
+    "express-validator": "^6.1.1",
+    "forever-monitor": "^1.7.1",
+    "save": "^2.4.0"
+  }
+}
